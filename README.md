@@ -4,7 +4,7 @@ A minimal and intuitive React-based To-Do List application that helps you manage
 
 ## 🚀 Live Demo
 
-👉 [Try it live](https://kante-ramanaidu.github.io/keeper/)
+👉 [Try it live](https://keeper-ruddy-mu.vercel.app/)
 
 ---
 
