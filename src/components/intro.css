@@ -1,0 +1,50 @@
+.intro-container {
+  background: linear-gradient(to right, #fdfbfb, #ebedee);
+  border-radius: 12px;
+  padding: 2rem 2.5rem;
+  margin: 2rem auto;
+  max-width: 800px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intro-heading {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.intro-subheading {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.intro-list {
+  text-align: left;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto 2rem;
+  max-width: 600px;
+}
+
+.intro-list li {
+  font-size: 1.05rem;
+  margin: 0.75rem 0;
+  color: #333;
+  display: flex;
+  align-items: center;
+}
+
+.intro-list li strong {
+  color: #2c3e50;
+  margin-right: 0.5rem;
+}
+
+.intro-footer {
+  font-style: italic;
+  color: #6c7a89;
+  font-size: 1rem;
+}
+
